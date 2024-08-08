@@ -1,22 +1,23 @@
-vless://a24b4894-414a-48e0-8397-53bccb26aaa3@engage.cloudflareclient.com:443?encryption=none&security=tls&sni=bpla.soonyelnet.workers.dev&type=ws&host=bpla.soonyelnet.workers.dev#WiFi 🛜 Cloudflare 1
-vless://b0286bc2-e17c-4c17-b0e6-d39c93f74937@borhtorhti-asw.pages.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=borhtorhti-asw.pages.dev&fp=randomized&type=ws&sni=borhtorhti-asw.pages.dev#WiFi 🛜 Cloudflare 2
-vless://ecc19b72-2cc8-4690-b23d-960d3e3c6d40@172.64.146.118:8443?encryption=none&security=tls&sni=pardazeshvpn-tg24.pages.dev&fp=random&type=ws&host=pardazeshvpn-tg24.pages.dev&path=%2F#WiFi 🛜 Cloudflare 3
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.30.227:443?path=%2F%3Fed&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#WiFi 🛜 Cloudflare 4
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=%2F&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#WiFi 🛜 Cloudflare 5
-vless://ecc19b72-2cc8-4690-b23d-960d3e3c6d40@172.64.146.118:8443?encryption=none&security=tls&sni=pardazeshvpn-tg24.pages.dev&fp=random&type=ws&host=pardazeshvpn-tg24.pages.dev&path=%2F#WiFi 🇩🇪 Germany
-vless://7f035a95-4b51-4e0b-8995-59864a9cde22@104.16.181.38:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=mSDONOr.Pages.dEv&fp=randomized&type=ws&sni=MSdOnoR.pagEs.dEV#WiFi+%F0%9F%87%AA%F0%9F%87%B8+Spain
+vless://a24b4894-414a-48e0-8397-53bccb26aaa3@engage.cloudflareclient.com:443?encryption=none&security=tls&sni=bpla.soonyelnet.workers.dev&type=ws&host=bpla.soonyelnet.workers.dev#WiFi_Cloudflare_1
+vless://b0286bc2-e17c-4c17-b0e6-d39c93f74937@borhtorhti-asw.pages.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=borhtorhti-asw.pages.dev&fp=randomized&type=ws&sni=borhtorhti-asw.pages.dev#WiFi_Cloudflare_2
+vless://ecc19b72-2cc8-4690-b23d-960d3e3c6d40@172.64.146.118:8443?encryption=none&security=tls&sni=pardazeshvpn-tg24.pages.dev&fp=random&type=ws&host=pardazeshvpn-tg24.pages.dev&path=%2F#WiFi_Cloudflare_3
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.30.227:443?path=%2F%3Fed&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#WiFi_Cloudflare_4
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=%2F&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#WiFi_Cloudflare_5
+vless://ecc19b72-2cc8-4690-b23d-960d3e3c6d40@172.64.146.118:8443?encryption=none&security=tls&sni=pardazeshvpn-tg24.pages.dev&fp=random&type=ws&host=pardazeshvpn-tg24.pages.dev&path=%2F#WiFi_Germany
+vless://7f035a95-4b51-4e0b-8995-59864a9cde22@104.16.181.38:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=mSDONOr.Pages.dEv&fp=randomized&type=ws&sni=MSdOnoR.pagEs.dEV#WiFi_Spain
+
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJXaUZpIPCfh7rwn4e4IFVTIiwKICAiYWRkIjogIjEwNC4yMS44My4xMDgiLAogICJwb3J0IjogIjQ0MyIsCiAgImlkIjogIjZjMTY4ZmNjLTIyMzEtNGYzYi04YzFlLWY2MzkxNjkyZGY0YSIsCiAgImFpZCI6ICIwIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogImhtczAyLmZ4aWFvbWkuc2JzIiwKICAicGF0aCI6ICIvbGluayIsCiAgInRscyI6ICJ0bHMiLAogICJzbmkiOiAiaG1zMDIuZnhpYW9taS5zYnMiLAogICJhbHBuIjogIiIsCiAgImZwIjogIiIKfQ==
 
 vmess://eyJhZGQiOiIxNzIuNjcuMjE5LjE5NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWRlbmMzNnYueHRvb2x0ZWNoLmNmZCIsImlkIjoiYjMyMWZkNWQtZTZlYy00MjkzLWE2NDQtMTY0ZTM4ODVmNTJlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IlNJTSDwn5SRIEZyZWUgMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJhZGVuYzM2di54dG9vbHRlY2guY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.10.80:443?path=%2FkOE7dURXc2pP5Mwn%2FMTUwLjk1LjI1LjEw%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Panel.alighADRboLANd.IR&fp=randomized&type=ws&sni=PanEl.aligHAdRbOlAnD.IR#SIM 🔑 Free 2
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.10.80:443?path=%2FkOE7dURXc2pP5Mwn%2FMTUwLjk1LjI1LjEw%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Panel.alighADRboLANd.IR&fp=randomized&type=ws&sni=PanEl.aligHAdRbOlAnD.IR#SIM_Free_2
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.144.238:443?path=%2FdowrjS8PgBctgtVv%2FMTUwLjk1LjI1LjEw%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=paNEL.ALiGhAdRbOLAND.ir&fp=randomized&type=ws&sni=PaneL.AliGhAdrbolAnd.ir#SIM 🔑 Free 3
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.144.238:443?path=%2FdowrjS8PgBctgtVv%2FMTUwLjk1LjI1LjEw%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=paNEL.ALiGhAdRbOLAND.ir&fp=randomized&type=ws&sni=PaneL.AliGhAdrbolAnd.ir#SIM_Free_3
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#SIM+%F0%9F%94%91+Free+4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#SIM_Free_4
 
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#SIM+%F0%9F%94%91+Free+5
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#SIM_Free_5
 
-vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?path=%2Fws&security=tls&encryption=none&host=continuity.sasuke.ir&type=ws&sni=continuity.sasuke.ir#SIM+%F0%9F%94%91+Free+6
+vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?path=%2Fws&security=tls&encryption=none&host=continuity.sasuke.ir&type=ws&sni=continuity.sasuke.ir#SIM_Free_6
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.138:8080#SIM+%F0%9F%94%91+Free+7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.138:8080#SIM_Free_7
