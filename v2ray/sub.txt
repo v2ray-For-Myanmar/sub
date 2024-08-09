@@ -12,3 +12,4 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.144.238:443?path=%2FdowrjS8P
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#SIM_Free_4
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#SIM_Free_5
 vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?path=%2Fws&security=tls&encryption=none&host=continuity.sasuke.ir&type=ws&sni=continuity.sasuke.ir#SIM_Free_6
+vless://7062ec4a-2ce0-49bc-b7b3-ec37ef7f17d6@104.21.45.21:443?path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&security=tls&encryption=none&alpn=http/1.1&host=39238319310964543920519489701900.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&fp=chrome&type=ws&sni=39238319310964543920519489701900.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou#SIM_Free_7
