@@ -5,7 +5,6 @@ trojan://25a0ffa0-725c-4d6f-b0d5-c74579753075@cmc3.5gsieuvip.vn:443?security=tls
 trojan://25a0ffa0-725c-4d6f-b0d5-c74579753075@cmc3.5gsieuvip.vn:443?security=tls&allowInsecure=1&type=tcp#BPLA%20-%205
 trojan://3723507166611775488@195.133.93.135:443?security=tls&sni=pleased-airedale.boa152.lol&type=tcp#BPLA%20-%20CZ%201
 trojan://3723507166611775488@195.133.93.221:443?security=tls&sni=fitting-ox.boa152.lol&type=tcp#BPLA%20-%20CZ%202
-trojan://3723507166611775488@195.133.93.234:443?security=tls&sni=wise-cowbird.boa152.lol&type=tcp#BPLA%20-%20CZ%203
 vless://SVNTEAM@svnteam.misvn.ir:444?security=reality&sni=www.refersion.com&fp=chrome&pbk=b7CZaN_234xoU-96ODNx0ySPpea00Oi8CqjiokRJQwE&sid=8da4f1dfed&spx=/&type=tcp&encryption=none#BPLA%20-%20IR
 trojan://3723507166611775488@5.189.203.39:443?security=tls&sni=lucky-grouper.boa152.lol&type=tcp#BPLA%20-%20NL%201
 trojan://3723507166611775488@5.189.203.50:443?security=tls&sni=devoted-starfish.boa152.lol&allowInsecure=1&type=tcp#BPLA%20-%20NL2
