@@ -11,7 +11,6 @@ trojan://25a0ffa0-725c-4d6f-b0d5-c74579753075@103.173.66.155:443?security=tls&sn
 trojan://3723507166611775488@195.133.93.135:443?security=tls&sni=pleased-airedale.boa152.lol&type=tcp#BPLA%20-%20CZ%201
 trojan://3723507166611775488@195.133.93.221:443?security=tls&sni=fitting-ox.boa152.lol&type=tcp#BPLA%20-%20CZ%202
 trojan://3723507166611775488@195.133.93.234:443?security=tls&sni=wise-cowbird.boa152.lol&type=tcp#BPLA%20-%20CZ%203
-trojan://UsFzGmgoSa@185.10.18.165:80?security=&type=tcp&path=/&headerType=http&host=hostdl.com#BPLA%20-%20FR%201
 trojan://3723507166611775488@5.189.203.39:443?security=tls&sni=lucky-grouper.boa152.lol&type=tcp#BPLA%20-%20NL%201
 trojan://3723507166611775488@5.189.203.50:443?security=tls&sni=devoted-starfish.boa152.lol&allowInsecure=1&type=tcp#BPLA%20-%20NL2
 trojan://3723507166611775488@5.8.93.173:443?security=tls&sni=nearby-hedgehog.boa152.lol&type=tcp#BPLA%20-%20US%204
